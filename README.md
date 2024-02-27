@@ -1,4 +1,4 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
 
 ## Deployment Information
 
